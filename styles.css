@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
 
 html {
   font-size: 35px;
   background: #98bcf4;
-  font-family: Calibri;  
+  font-family: Calibri;
   background-image: url("./img/background.jpg");
-  background-size:120%;
+  background-size: 120%;
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -14,7 +14,6 @@ body {
   padding: 0;
   margin: 0;
   text-align: center;
-
 }
 
 h1 {
@@ -22,7 +21,7 @@ h1 {
   font-size: 40px;
   line-height: 1;
   margin-bottom: 0;
-  font-family: 'Rock Salt', cursive;
+  font-family: "Rock Salt", cursive;
 }
 
 .score {
